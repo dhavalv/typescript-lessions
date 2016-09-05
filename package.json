@@ -1,0 +1,17 @@
+{
+  "name": "typescript-lessions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^1.8.10"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  },
+  "scripts": {
+    "build": "tsc --rootDir src --outDir dist"
+  },
+  "author": "",
+  "license": "ISC"
+}
